@@ -69,7 +69,11 @@ class CountryList extends StatelessWidget {
           title: Text(country.name),
           subtitle: Text('Currency: ${country.currency}'),
           leading: CircleAvatar(
-            child: Text(country.emoji),
+            radius: 40,
+            child: Text(
+              country.emoji,
+              style: TextStyle(fontSize: 30),
+            ),
             backgroundColor: Colors.black12,
           ),
           onTap: () {

@@ -1,4 +1,4 @@
-# flutter_graphql_spacex
+# flutter_graphql_countries
 
 A new Flutter project.
 

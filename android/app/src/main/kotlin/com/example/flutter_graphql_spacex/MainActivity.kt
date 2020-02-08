@@ -1,4 +1,4 @@
-package com.example.flutter_graphql_spacex
+package com.example.flutter_graphql_countries
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
